@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+nav {
+    background-color: darkblue;
+    text-align: center;
+
+}
+

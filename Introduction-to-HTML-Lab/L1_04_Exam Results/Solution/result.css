@@ -1,0 +1,24 @@
+table, tr, th, td{
+    border: solid black 1px;
+    /*border-collapse: collapse;*/
+}
+
+body {
+    /*border: 1px solid black;*/
+    /*padding: 30px 30px 50px 50px;*/
+
+}
+
+.bold-tr {
+    font-weight: bold;
+    text-align: center;
+}
+
+td th {
+    padding: 10px;
+}
+
+.average-score {
+    width: 400px;
+
+}
